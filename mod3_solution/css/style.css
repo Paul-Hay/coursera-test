@@ -81,9 +81,16 @@ nav.navbar {
 }
 
 #to-top span {
-  text-decoration: none;
   color: rgb(4, 0, 255);
   padding: 5px;
+}
+
+#top {
+  text-decoration: none;
+}
+
+#top span {
+  color: blue;
 }
 
 @media (max-width: 767px) {
